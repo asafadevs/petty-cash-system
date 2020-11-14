@@ -1,0 +1,29 @@
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\NetOne Cash Requisition System.exe.config
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\NetOne Cash Requisition System.exe
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\NetOne Cash Requisition System.pdb
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\itextsharp.dll
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.csprojAssemblyReference.cache
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\Interop.LCC11.dll
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.csproj.ResolveComReference.cache
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Create_New_User.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Createvoucherfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Hodapprovalfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.homemenufrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Justification_Reports.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Loginfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Managerapprovalfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Paymentsfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Properties.Resources.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Refill_Fundcs.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Reportsfrm.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.csproj.GenerateResource.cache
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.csproj.CoreCompileInputs.cache
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.csproj.CopyComplete
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.exe
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.pdb
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne_Cash_Requisition_System.Justification.resources
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\NetOne Cash Requisition System.exe.manifest
+C:\Users\alist\source\repos\NetOne Cash Requisition System\bin\Debug\NetOne Cash Requisition System.application
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.TrustInfo.xml
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.exe.manifest
+C:\Users\alist\source\repos\NetOne Cash Requisition System\obj\Debug\NetOne Cash Requisition System.application
